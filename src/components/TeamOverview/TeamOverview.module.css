@@ -1,0 +1,99 @@
+.teamOverview {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+@media (max-width: 1000px) {
+  .teamOverview {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sectionTitle {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  margin-bottom: 15px;
+}
+
+.matches {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.matchTable {
+  width: 100%;
+}
+
+.matchDate {
+  text-align: left;
+  font-size: 0.9rem;
+  color: gray;
+  padding-bottom: 5px;
+  padding-top: 10px;
+}
+
+.matchRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: var(--background-color);
+  border-radius: 5px;
+}
+
+.teamNameHome {
+  flex: 1;
+  text-align: left;
+  padding: 5px;
+}
+
+.teamNameAway {
+  flex: 1;
+  text-align: right;
+  padding: 5px;
+}
+
+.score {
+  flex: 0.5;
+  text-align: center;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.table {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.leagueTable {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.leagueTable th,
+.leagueTable td {
+  padding: 10px;
+  border-bottom: 1px solid var(--background-color);
+}
+
+.leagueTable th {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.leagueTable tr:hover {
+  background-color: var(--secondary-color);
+  color: white;
+}
+
+.leagueTable th:nth-child(n + 3),
+.leagueTable td:nth-child(n + 3) {
+  text-align: center;
+}
