@@ -1,7 +1,6 @@
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import { LandingPage } from "../pages/LandingPage";
-import { WomensWLPage } from "../pages/WomensWLPage";
-import { MensWLPage } from "../pages/MensWLPage";
+import { WomensWLPage, MensWLPage } from "../pages/WinterLeaguePages";
 import { RoutePaths } from "./routePaths";
 
 export const AppRoutes = () => (

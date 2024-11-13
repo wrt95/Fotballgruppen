@@ -1,0 +1,7 @@
+.matchDate {
+  text-align: left;
+  font-size: var(--font-size-small-text);
+  color: gray;
+  padding-bottom: 5px;
+  padding-top: 10px;
+}

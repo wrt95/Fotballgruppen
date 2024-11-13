@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import classes from "./LandingPage.module.css";
-import { RoutePaths } from "../routes/routePaths";
+import { RoutePaths } from "../../routes/routePaths";
 
 export const LandingPage = () => {
   return (

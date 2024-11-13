@@ -1,6 +1,6 @@
-import { LeagueTable } from "../../types/LeagueTable";
+import { LeagueTableItem } from "../../types/LeagueTableItem";
 
-export const menWLTable: LeagueTable[] = [
+export const menWLTable: LeagueTableItem[] = [
   {
     teamName: "Xledger",
     tablePosition: 1,

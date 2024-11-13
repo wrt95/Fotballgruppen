@@ -1,4 +1,4 @@
-export type LeagueTable = {
+export type LeagueTableItem = {
   teamName: string;
   tablePosition: number;
   played: number;
