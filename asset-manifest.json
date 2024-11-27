@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Fotballgruppen/static/css/main.8b4b55cc.css",
-    "main.js": "/Fotballgruppen/static/js/main.0cadd9e9.js",
+    "main.js": "/Fotballgruppen/static/js/main.0e4b5205.js",
     "index.html": "/Fotballgruppen/index.html",
     "main.8b4b55cc.css.map": "/Fotballgruppen/static/css/main.8b4b55cc.css.map",
-    "main.0cadd9e9.js.map": "/Fotballgruppen/static/js/main.0cadd9e9.js.map"
+    "main.0e4b5205.js.map": "/Fotballgruppen/static/js/main.0e4b5205.js.map"
   },
   "entrypoints": [
     "static/css/main.8b4b55cc.css",
-    "static/js/main.0cadd9e9.js"
+    "static/js/main.0e4b5205.js"
   ]
 }
