@@ -75,7 +75,7 @@ export const menTeamWLMatches: Match[] = [
     date: "12.03.2025",
     time: "21:00",
     homeTeam: "Accenture Herrer",
-    awayTeam: "w.o. 2",
+    awayTeam: "Xhamia Oslo",
   },
   {
     id: 11,

@@ -103,7 +103,7 @@ export const menWLTable: LeagueTableItem[] = [
   },
   {
     teamName: "Xhamia Oslo",
-    tablePosition: 9,
+    tablePosition: 11,
     played: 1,
     won: 0,
     drawn: 0,
