@@ -34,6 +34,8 @@ export const womenTeamWLMatches: Match[] = [
     time: "19:00",
     homeTeam: "OsloMet IL",
     awayTeam: "Accenture Damer",
+    homeGoals: 11,
+    awayGoals: 3,
   },
   {
     id: 5,

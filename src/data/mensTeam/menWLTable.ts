@@ -15,7 +15,7 @@ export const menWLTable: LeagueTableItem[] = [
     teamName: "Veitvet Oldboys",
     tablePosition: 2,
     played: 3,
-    won: 4,
+    won: 3,
     drawn: 0,
     lost: 0,
     gf: 13,
