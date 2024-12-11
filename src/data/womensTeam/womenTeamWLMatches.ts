@@ -40,9 +40,11 @@ export const womenTeamWLMatches: Match[] = [
   {
     id: 5,
     date: "10.12.2024",
-    time: "21:00",
+    time: "21:00 - Walkover victory to Accenture",
     homeTeam: "Accenture Damer",
     awayTeam: "Norconsult",
+    homeGoals: 0,
+    awayGoals: 0,
   },
   {
     id: 6,
