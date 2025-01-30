@@ -52,6 +52,8 @@ export const menTeamWLMatches: Match[] = [
     time: "19:00",
     homeTeam: "Veitvet Oldboys",
     awayTeam: "Accenture Herrer",
+    homeGoals: 3,
+    awayGoals: 2,
   },
   {
     id: 7,
@@ -59,6 +61,8 @@ export const menTeamWLMatches: Match[] = [
     time: "21:00",
     homeTeam: "Xledger",
     awayTeam: "Accenture Herrer",
+    homeGoals: 7,
+    awayGoals: 2,
   },
   {
     id: 8,

@@ -52,6 +52,8 @@ export const womenTeamWLMatches: Match[] = [
     time: "21:00",
     homeTeam: "Multiconsult",
     awayTeam: "Accenture Damer",
+    homeGoals: 5,
+    awayGoals: 1,
   },
   {
     id: 7,
@@ -59,6 +61,8 @@ export const womenTeamWLMatches: Match[] = [
     time: "21:00",
     homeTeam: "Accenture Damer",
     awayTeam: "KPMG Kvinner",
+    homeGoals: 3,
+    awayGoals: 4,
   },
   {
     id: 8,
